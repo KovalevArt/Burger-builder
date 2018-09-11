@@ -1,0 +1,35 @@
+.ContactData {
+	margin: 20px auto;
+	width: 80%;
+	text-align: center;
+	padding: 10px;
+
+	border: 1px solid #ccc;
+}
+
+.Form {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+
+	-webkit-flex-direction: column;
+	-moz-flex-direction: column;
+	-ms-flex-direction: column;
+	-o-flex-direction: column;
+	flex-direction: column;
+
+	justify-content: center;
+	-ms-align-items: center;
+	align-items: center;
+
+}
+
+.Input {
+	display: block;
+	text-align: center;
+	margin-top: 5px;
+	min-width: 300px;
+	width: 80%;
+}
