@@ -3,10 +3,11 @@
 	width: 80%;
 	text-align: center;
 	padding: 10px;
-
-	border: 1px solid #ccc;
+	box-shadow: 0 2px 3px #ccc;
+	border: 1px solid #eee;
+	box-sizing: border-box;
 }
-
+/*
 .Form {
 	display: -webkit-flex;
 	display: -moz-flex;
@@ -32,4 +33,4 @@
 	margin-top: 5px;
 	min-width: 300px;
 	width: 80%;
-}
+}*/
